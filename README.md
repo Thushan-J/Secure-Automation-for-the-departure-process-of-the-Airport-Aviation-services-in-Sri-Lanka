@@ -1,16 +1,18 @@
-# HELA WEDAKAMA APPLICATION TO GUIDE PATIENTS AND NATIVE PHYSICIANS
+# Secure Automation for the departure process of the Airport & Aviation services 
 
 ### [Live Site](https://ayusha-helawedakama.netlify.app/index.html)
 
 
 ## Features
-- Plant Identification
-
-- Disease Identification and Recommended Doctor
-
-- Handwritten Prescription Identification
-
-- Nila Wedakama
+-Web-based ZKP authentication
+-Long-term backup using blockchain/cloud DB
+-Secure registration process with ZKP 
+-Secure encryption schemes for storage/cloud storage
+-Secure encryption schemes for data in transit
+-Facial landmark detection
+-Fraud detection
+-Behavioural based user analysis
+-Live feed viewing capabilities
 
 ## Technology Stack
 
